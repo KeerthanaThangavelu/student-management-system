@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+sprig:
+  application:
+    name: student-management-system
